@@ -1,2 +1,2 @@
 # HM3
-The source code of the paper title "HM3: Hierarchical Multi-Objective Model Merging for Pretrained Models" in NeurIPS 2025 will be released in December 2025.
+The source code of the paper title "HM3: Hierarchical Multi-Objective Model Merging for Pretrained Models" in NeurIPS 2025 will be released in January 2026.
